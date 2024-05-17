@@ -29,6 +29,7 @@ lint:
         - .markdownlint-cli2.json
         - .markdownlint-cli2.yaml
         - .markdownlint-cli2.jsonc
+        - .markdownlintignore
       issue_url_format: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#{}
       known_good_version: 0.33.0
       version_command:
